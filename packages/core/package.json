@@ -1,6 +1,6 @@
 {
   "name": "@board-cli/core",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "board-cli core",
   "author": "ding kai <46352678+DingKai0202@users.noreply.github.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Run tests from core\""
   },
   "dependencies": {
-    "@board-cli/utils": "^1.0.0"
+    "@board-cli/utils": "^0.0.1"
   }
 }
