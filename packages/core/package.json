@@ -1,6 +1,6 @@
 {
   "name": "@board-cli/core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "board-cli core",
   "author": "ding kai <46352678+DingKai0202@users.noreply.github.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Run tests from core\""
   },
   "dependencies": {
-    "@board-cli/utils": "^0.0.2"
+    "@board-cli/utils": "^0.0.3"
   },
   "gitHead": "b951ab4acb7f3508ccdc11138d8331163f75e688",
   "publishConfig": {
