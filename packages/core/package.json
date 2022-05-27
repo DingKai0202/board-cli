@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "board-cli": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,5 +21,6 @@
   },
   "dependencies": {
     "@board-cli/utils": "^0.0.1"
-  }
+  },
+  "gitHead": "29867526d8e6d480e757f687127168a5cb5e18d9"
 }
