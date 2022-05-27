@@ -20,7 +20,6 @@
     "test": "echo \"Run tests from core\""
   },
   "dependencies": {
-    "@board-cli/utils": "^0.0.4"
   },
   "gitHead": "b951ab4acb7f3508ccdc11138d8331163f75e688",
   "publishConfig": {
