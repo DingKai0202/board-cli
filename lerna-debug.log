@@ -1,22 +1,5 @@
-0 silly argv {
-0 silly argv   _: [ 'create' ],
-0 silly argv   lernaVersion: '3.22.1',
-0 silly argv   '$0': '/opt/homebrew/bin/lerna',
-0 silly argv   name: 'core'
-0 silly argv }
-1 notice cli v3.22.1
-2 verbose rootPath /Users/kaiding/Documents/vue-project/board-cli
-3 warn ENOREMOTE No git remote found, skipping repository property
-4 error Error: canceled
-4 error     at Interface.<anonymous> (/Users/kaiding/Documents/vue-project/board-cli/node_modules/read/lib/read.js:66:13)
-4 error     at Interface.emit (events.js:400:28)
-4 error     at Interface._ttyWrite (readline.js:1001:16)
-4 error     at ReadStream.onkeypress (readline.js:265:10)
-4 error     at ReadStream.emit (events.js:400:28)
-4 error     at emitKeys (internal/readline/utils.js:358:14)
-4 error     at emitKeys.next (<anonymous>)
-4 error     at ReadStream.onData (readline.js:1270:36)
-4 error     at ReadStream.emit (events.js:400:28)
-4 error     at addChunk (internal/streams/readable.js:293:12)
-4 error     at readableAddChunk (internal/streams/readable.js:267:9)
-4 error     at ReadStream.Readable.push (internal/streams/readable.js:206:10)
+47 error Error: Command failed: git push --follow-tags --no-verify --atomic origin main
+47 error fatal: unable to access 'https://github.com/DingKai0202/board-cli.git/': Failed to connect to github.com port 443: Operation timed out
+47 error
+47 error     at makeError (/Users/kaiding/Desktop/道丁/board-cli/node_modules/execa/index.js:174:9)
+47 error     at /Users/kaiding/Desktop/道丁/board-cli/node_modules/execa/index.js:278:16

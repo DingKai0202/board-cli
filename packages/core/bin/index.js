@@ -1,3 +1,3 @@
 #! /usr/bin/env node
 
-console.log('hello board-cli');
+console.log('hello board-cli!');
