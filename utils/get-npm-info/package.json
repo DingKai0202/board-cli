@@ -1,5 +1,5 @@
 {
-  "name": "get-npm-info",
+  "name": "@board-cli/get-npm-info",
   "version": "0.0.14",
   "description": "get npm info",
   "author": "ding kai <46352678+DingKai0202@users.noreply.github.com>",
@@ -28,7 +28,7 @@
     "semver": "^7.3.7",
     "url-join": "^4.0.0"
   },
-  "gitHead": "cde3e542af49bd4f2e1f10fce656f4c689dcabd0",
+  "gitHead": "defd7ef38cab06d06bb8aee9ee2328dd35b3b082",
   "publishConfig": {
     "access": "public"
   }
