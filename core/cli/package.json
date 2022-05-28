@@ -22,9 +22,15 @@
   "dependencies": {
     "@board-cli/log": "file:../../utils/log",
     "@board-cli/utils": "file:../../utils/utils",
+    "@board-cli/get-npm-info": "file:../../utils/get-npm-info",
     "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
     "import-local": "^3.1.0",
-    "semver": "^7.3.7"
+    "minimist": "^1.2.6",
+    "path-exists": "^4.0.0",
+    "root-check": "^1.0.0",
+    "semver": "^7.3.7",
+    "user-home": "^3.0.0"
   },
   "gitHead": "b951ab4acb7f3508ccdc11138d8331163f75e688",
   "publishConfig": {

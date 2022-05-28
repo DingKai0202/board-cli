@@ -1,7 +1,7 @@
 {
-  "name": "@board-cli/log",
+  "name": "get-npm-info",
   "version": "0.0.7",
-  "description": "board-cli log",
+  "description": "get npm info",
   "author": "ding kai <46352678+DingKai0202@users.noreply.github.com>",
   "homepage": "https://github.com/DingKai0202/board-cli#readme",
   "license": "ISC",
@@ -13,9 +13,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DingKai0202/board-cli.git"
@@ -27,6 +24,8 @@
     "url": "https://github.com/DingKai0202/board-cli/issues"
   },
   "dependencies": {
-    "npmlog": "^4.1.2"
+    "axios": "^0.27.2",
+    "semver": "^7.3.7",
+    "url-join": "^4.0.0"
   }
 }
