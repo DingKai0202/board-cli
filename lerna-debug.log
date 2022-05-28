@@ -1,5 +1,5 @@
-54 error Error: Command failed: git push --follow-tags --no-verify --atomic origin main
-54 error fatal: unable to access 'https://github.com/DingKai0202/board-cli.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443
-54 error
-54 error     at makeError (/Users/kaiding/Desktop/道丁/board-cli/node_modules/execa/index.js:174:9)
-54 error     at /Users/kaiding/Desktop/道丁/board-cli/node_modules/execa/index.js:278:16
+56 error Error: Command failed: git push --follow-tags --no-verify --atomic origin main
+56 error fatal: unable to access 'https://github.com/DingKai0202/board-cli.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443
+56 error
+56 error     at makeError (/Users/kaiding/Desktop/道丁/board-cli/node_modules/execa/index.js:174:9)
+56 error     at /Users/kaiding/Desktop/道丁/board-cli/node_modules/execa/index.js:278:16
