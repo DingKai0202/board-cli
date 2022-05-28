@@ -21,8 +21,8 @@
   },
   "dependencies": {
     "@board-cli/get-npm-info": "file:../../utils/get-npm-info",
-    "@board-cli/log": "file:../../utils/log",
-    "@board-cli/utils": "file:../../utils/utils",
+    "@board-cli/log": "^0.0.10",
+    "@board-cli/utils": "^0.0.10",
     "colors": "^1.4.0",
     "dotenv": "^16.0.1",
     "import-local": "^3.1.0",
@@ -32,7 +32,7 @@
     "semver": "^7.3.7",
     "user-home": "^3.0.0"
   },
-  "gitHead": "b951ab4acb7f3508ccdc11138d8331163f75e688",
+  "gitHead": "608957c3e2c8534080c61e24e1099d08cfae0865",
   "publishConfig": {
     "access": "public"
   }
