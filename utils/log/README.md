@@ -1,11 +1,11 @@
-# `core`
+# `@board-cli/log`
 
 > TODO: description
 
 ## Usage
 
 ```
-const core = require('core');
+const log = require('@board-cli/log');
 
 // TODO: DEMONSTRATE API
 ```
