@@ -4,21 +4,21 @@
 
 "@board-cli/get-npm-info@file:../../utils/get-npm-info":
   "resolved" "file:../../utils/get-npm-info"
-  "version" "0.0.7"
+  "version" "0.0.15"
   dependencies:
     "axios" "^0.27.2"
     "semver" "^7.3.7"
     "url-join" "^4.0.0"
 
+"@board-cli/init@file:../../commands/init":
+  "resolved" "file:../../commands/init"
+  "version" "0.0.15"
+
 "@board-cli/log@file:../../utils/log":
   "resolved" "file:../../utils/log"
-  "version" "0.0.7"
+  "version" "0.0.15"
   dependencies:
     "npmlog" "^4.1.2"
-
-"@board-cli/utils@file:../../utils/utils":
-  "resolved" "file:../../utils/utils"
-  "version" "0.0.7"
 
 "ansi-regex@^2.0.0":
   "integrity" "sha512-TIGnTpdo+E3+pCyAluZvtED5p5wCqLdezCyhPZzKPcxvFplEt4i+W7OONCKgeZFT3+y5NZZfOOS/Bdcanm1MYA=="
@@ -45,6 +45,11 @@
   "integrity" "sha512-a+UqTh4kgZg/SlGvfbzDHpgRu7AAQOmmqRHJnxhRZICKFUT91brVhNNt58CMWU9PsBbv3PDCZUHbVxuDiH2mtA=="
   "resolved" "https://registry.npmjs.org/colors/-/colors-1.4.0.tgz"
   "version" "1.4.0"
+
+"commander@^9.3.0":
+  "integrity" "sha512-hv95iU5uXPbK83mjrJKuZyFM/LBAoCV/XhVGkS5Je6tl7sxr6A0ITMw5WoRV46/UaJ46Nllm3Xt7IaJhXTIkzw=="
+  "resolved" "https://registry.npmjs.org/commander/-/commander-9.3.0.tgz"
+  "version" "9.3.0"
 
 "default-uid@^1.0.0":
   "integrity" "sha512-KqOPKqX9VLrCfdKK/zMll+xb9kZOP4QyguB6jyN4pKaPoedk1bMFIfyTCFhVdrHb3GU7aJvKjd8myKxFRRDwCg=="
